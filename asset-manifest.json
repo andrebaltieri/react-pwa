@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/andrebaltieri/react-pwa/static/js/main.68b5b433.chunk.js",
+    "main.js.map": "/andrebaltieri/react-pwa/static/js/main.68b5b433.chunk.js.map",
+    "runtime-main.js": "/andrebaltieri/react-pwa/static/js/runtime-main.15969f08.js",
+    "runtime-main.js.map": "/andrebaltieri/react-pwa/static/js/runtime-main.15969f08.js.map",
+    "static/js/2.b8cc5a0c.chunk.js": "/andrebaltieri/react-pwa/static/js/2.b8cc5a0c.chunk.js",
+    "static/js/2.b8cc5a0c.chunk.js.map": "/andrebaltieri/react-pwa/static/js/2.b8cc5a0c.chunk.js.map",
+    "index.html": "/andrebaltieri/react-pwa/index.html",
+    "precache-manifest.6d09ee6eae9f244afa3c869d181c8d63.js": "/andrebaltieri/react-pwa/precache-manifest.6d09ee6eae9f244afa3c869d181c8d63.js",
+    "service-worker.js": "/andrebaltieri/react-pwa/service-worker.js",
+    "static/js/2.b8cc5a0c.chunk.js.LICENSE.txt": "/andrebaltieri/react-pwa/static/js/2.b8cc5a0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15969f08.js",
+    "static/js/2.b8cc5a0c.chunk.js",
+    "static/js/main.68b5b433.chunk.js"
+  ]
+}
