@@ -1,24 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <img src="https://baltaio.blob.core.windows.net/static/images/dark/balta-logo.svg" width="180" alt="balta.io" className="uk-img" />
+      <br /><br />
+      <button className="uk-button uk-button-primary uk-width-1-1">
+        <span uk-icon="icon: balta; ratio: 0.6" className="uk-margin-small-right"></span>
+        Entrar
+      </button>
     </div>
   );
 }
